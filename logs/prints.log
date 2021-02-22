@@ -1,0 +1,45 @@
+14:16:09.794 [main] DEBUG Rpack.LoginTest - browser is launched
+14:16:16.813 [main] DEBUG Rpack.LoginTest - naviagtion to url
+14:16:17.770 [main] DEBUG Rpack.LoginTest - email id  is eneterd
+14:16:17.946 [main] DEBUG Rpack.LoginTest - password is eneterd
+14:16:18.466 [main] DEBUG Rpack.LoginTest - clicked on login button
+14:21:55.084 [main] DEBUG Rpack.LoginTest - browser is launched
+14:21:58.823 [main] DEBUG Rpack.LoginTest - naviagtion to url
+14:21:59.618 [main] DEBUG Rpack.LoginTest - email id  is eneterd
+14:21:59.733 [main] DEBUG Rpack.LoginTest - password is eneterd
+14:22:00.466 [main] DEBUG Rpack.LoginTest - clicked on login button
+14:22:00.717 [main] DEBUG Rpack.LoginTest - browser is close
+14:41:45.154 [TestNG-tests-3] DEBUG Rpack.LoginTest - browser is launched
+14:41:51.668 [TestNG-tests-3] DEBUG Rpack.LoginTest - naviagtion to url
+14:41:53.077 [TestNG-tests-3] DEBUG Rpack.LoginTest - email id  is eneterd
+14:41:53.361 [TestNG-tests-3] DEBUG Rpack.LoginTest - password is eneterd
+14:41:54.326 [TestNG-tests-3] DEBUG Rpack.LoginTest - clicked on login button
+14:41:54.665 [TestNG-tests-3] DEBUG Rpack.LoginTest - browser is close
+17:50:36.584 [TestNG-tests-3] DEBUG Rpack.LoginTest - browser is launched
+17:50:44.988 [TestNG-tests-3] DEBUG Rpack.LoginTest - naviagtion to url
+17:50:46.561 [TestNG-tests-3] DEBUG Rpack.LoginTest - email id  is eneterd
+17:50:46.863 [TestNG-tests-3] DEBUG Rpack.LoginTest - password is eneterd
+17:50:47.662 [TestNG-tests-3] DEBUG Rpack.LoginTest - clicked on login button
+17:56:57.039 [TestNG-tests-3] DEBUG Rpack.LoginTest - browser is launched
+17:57:04.323 [TestNG-tests-3] DEBUG Rpack.LoginTest - naviagtion to url
+17:57:06.020 [TestNG-tests-3] DEBUG Rpack.LoginTest - email id  is eneterd
+17:57:06.421 [TestNG-tests-3] DEBUG Rpack.LoginTest - password is eneterd
+17:57:07.259 [TestNG-tests-3] DEBUG Rpack.LoginTest - clicked on login button
+18:04:35.501 [TestNG-tests-3] DEBUG Rpack.LoginTest - browser is launched
+18:04:46.313 [TestNG-tests-3] DEBUG Rpack.LoginTest - naviagtion to url
+18:04:48.456 [TestNG-tests-3] DEBUG Rpack.LoginTest - email id  is eneterd
+18:04:48.613 [TestNG-tests-3] DEBUG Rpack.LoginTest - password is eneterd
+18:05:06.236 [TestNG-tests-3] DEBUG Rpack.LoginTest - clicked on login button
+18:05:06.551 [TestNG-tests-3] DEBUG Rpack.LoginTest - browser is close
+18:06:36.672 [TestNG-tests-3] DEBUG Rpack.LoginTest - browser is launched
+18:06:44.563 [TestNG-tests-3] DEBUG Rpack.LoginTest - naviagtion to url
+18:06:46.605 [TestNG-tests-3] DEBUG Rpack.LoginTest - email id  is eneterd
+18:06:46.939 [TestNG-tests-3] DEBUG Rpack.LoginTest - password is eneterd
+18:06:47.611 [TestNG-tests-3] DEBUG Rpack.LoginTest - clicked on login button
+18:10:10.146 [TestNG-tests-3] DEBUG Rpack.LoginTest - browser is launched
+18:10:16.756 [TestNG-tests-3] DEBUG Rpack.LoginTest - naviagtion to url
+18:10:18.936 [TestNG-tests-3] DEBUG Rpack.LoginTest - email id  is eneterd
+18:10:19.116 [TestNG-tests-3] DEBUG Rpack.LoginTest - password is eneterd
+18:10:20.498 [TestNG-tests-3] DEBUG Rpack.LoginTest - clicked on login button
+18:10:20.865 [TestNG-tests-3] DEBUG Rpack.LoginTest - browser is close
+10:12:52.473 [TestNG-tests-3] DEBUG Rpack.LoginTest - browser is launched
